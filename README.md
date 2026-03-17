@@ -40,5 +40,25 @@ Analyzes resumes to suggest missing skills required for jobs.
 ![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pallavi112007&show_icons=true&theme=radical)
 
 ---
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi112007&show_icons=true&theme=tokyonight)
+
+![Streak Stats](https://streak-stats.demolab.com?user=pallavi112007&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi112007&layout=compact&theme=tokyonight)
+
+
+## 📊 GitHub Statistics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavi112007&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallavi112007&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pallavi112007&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallavi112007&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pallavi112007&theme=github_dark&utcOffset=5.5" />
 
 ⭐ Thanks for visiting my GitHub profile!
